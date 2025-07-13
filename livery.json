@@ -1,7 +1,7 @@
 {
     "name": "East Sky Airways",
     "color": "ffffff",
-    "bgcolor": "",
+    "bgcolor": "b5ffdb",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
