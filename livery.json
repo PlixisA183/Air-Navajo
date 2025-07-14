@@ -1,7 +1,7 @@
 {
-    "name": "East Sky Airways",
-    "color": "ffffff",
-    "bgcolor": "b5ffdb",
+    "name": "",
+    "color": "",
+    "bgcolor": "",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -31,15 +31,11 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
-                {
-                    "name": "EastSky Airways - old livery",
-                    "texture": [
+            ],
+            "labels": [
                 "Normal map",
                 "Specular shader",
-                "https://ibb.co/pBFzLkMt"
-                    ],
-                    "credits": "GeoFS Flight Video Group"
-                
+                "Texture"
             ]
         },
         "6": {
@@ -233,7 +229,13 @@
         },
         "238": {
             "name": "Boeing b757-200",
-            "liveries": [
+            "liveries": [{
+  "name": "Air Navajo",
+  "credits": "PlixisA183",
+  "texture": [
+    "https://i.ibb.co/Vc0Wz6Vs/NAV.png"
+  ]
+}
             ],
             "labels": [
                 "Texture"
@@ -273,13 +275,10 @@
         },
         "3575": {
             "name": "Boeing b787-9",
-           "liveries": [
-                {
-                    "name": "EastSky Airways RP-5030 787-9",
-                    "texture": [
-                        "https://ibb.co/wFJh9LYK"
-                    ],
-                    "credits": "GeoFS Flight Video Group"
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
             ]
         },
         "3534": {
@@ -301,12 +300,9 @@
         "2871": {
             "name": "Airbus a320neo",
             "liveries": [
-                {
-                    "name": "EastSky Airways RP-9011 A320neo",
-                    "texture": [
-                        "https://ibb.co/nN2YqJnK"
-                    ],
-                    "credits": "GeoFS Flight Video Group"
+            ],
+            "labels": [
+                "Texture"
             ]
         },
         "2769": {
@@ -361,7 +357,13 @@
         },
         "4140": {
             "name": "Boeing b737-200",
-            "liveries": [
+            "liveries": [{
+  "name": "Air Navajo",
+  "credits": "PlixisA183",
+  "texture": [
+    "https://i.ibb.co/7dLV9QyY/NAV.png"
+  ]
+}
             ],
             "labels": [
                 "Texture"
@@ -645,7 +647,13 @@
         },
         "5203": {
             "name": "Boeing b737-600",
-            "liveries": [
+            "liveries": [{
+  "name": "Air Navajo",
+  "credits": "PlixisA183",
+  "texture": [
+    "https://i.ibb.co/7NLkSqhJ/NAV.png"
+  ]
+}
             ],
             "labels": [
                 "Texture"
@@ -717,7 +725,14 @@
         },
         "1023": {
             "name": "McDonnell Douglas MD11",
-            "liveries": [
+            "liveries": [{
+  "name": "Air Navajo",
+  "credits": "PlixisA183",
+  "texture": [
+    "https://i.ibb.co/ShSrGhv/NAV.png"
+  ],
+  "materials": {}
+}
             ],
             "labels": [
                 "Texture"
